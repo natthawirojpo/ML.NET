@@ -1,0 +1,13 @@
+The following is an analysis of information on 35000 round shape diamonds collected under 10 aspects;
+
+• Price –The price of the diamond in US dollars ($326–$18,823) 
+• Carat- The weight of the diamond where 1carat=200mg. 
+• x- Length in mm (0–10.74) 
+• y- Width in mm (0–58.9) 
+• z- Depth in mm (0–31.8) 
+• Depth-Total depth percentage 
+• Table- Width of top of diamond relative to widest point (43–95) Categorical Variables 
+• Cut- The quality of the cut (Fair < Good< Very Good< Premium< Ideal) 
+• Color- Color of the diamond [D (best), E, F, G, H, I, J (worst)] 
+• Clarity- Measures how clear the diamond is (I1 (worst), SI1, SI2, VS1, VS2, VVS1, VVS2, IF (best))
+
