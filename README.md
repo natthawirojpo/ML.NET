@@ -1,2 +1,2 @@
 # ML.NET
-Microsoft ML.NET course materials for student
+Loy's Microsoft ML.NET course materials for student
