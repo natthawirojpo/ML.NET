@@ -11,3 +11,8 @@ Movie: Recommendation-MatrixFactorization<br>
 <br>
 Sales-spike: Matrix factorization (recommender systems)<br>
 <br>
+Sentiment: BinaryClassification-SdcaLogisticRegression<br>
+<br>
+Taxi-fare: Regression-FastTree<br>
+<br>
+
