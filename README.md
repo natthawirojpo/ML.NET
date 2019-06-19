@@ -9,7 +9,7 @@ Iris: Clustering-KMeans<br>
 <br>
 Movie: Recommendation-MatrixFactorization<br>
 <br>
-Sales-spike: Matrix factorization (recommender systems)<br>
+Sales-spike: Time series anomaly detection<br>
 <br>
 Sentiment: BinaryClassification-SdcaLogisticRegression<br>
 <br>
