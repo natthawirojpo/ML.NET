@@ -15,4 +15,4 @@ Sentiment: BinaryClassification-SdcaLogisticRegression<br>
 <br>
 Taxi-fare: Regression-FastTree<br>
 <br>
-
+Spam: Spam Detection for Text Messages
