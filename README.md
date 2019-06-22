@@ -1,11 +1,11 @@
 # ML.NET
 ## Loy's Microsoft ML.NET course materials for student<br>
 <br>
-Diamond : Regression-FastTree<br>
+Diamond : Product price prediction using Regression-FastTree<br>
 <br>
-GitHub-Issue: MulticlassClassification-SdcaMaximumEntropy<br>
+GitHub-Issue: Categorize support issues using MulticlassClassification-SdcaMaximumEntropy<br>
 <br>
-Iris: Clustering-KMeans<br>
+Iris: predicting the type of an iris flower uisng Clustering-KMeans<br>
 <br>
 Movie: Recommendation-MatrixFactorization<br>
 <br>
