@@ -15,6 +15,6 @@ Sentiment: BinaryClassification-SdcaLogisticRegression<br>
 <br>
 Taxi-fare: Regression-FastTree<br>
 <br>
-Spam: Spam Detection for Text Messages<br>
+Spam: Spam Detection for Text Messages using Binary Classification <br>
 <br>
 Credit: Fraud detection in credit cards based on binary classification and existing PCA-transformed dataset
