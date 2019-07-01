@@ -1,0 +1,15 @@
+id,age, workclass, education
+1,39, Manager, Bachelors
+2,50, Sales, Bachelors
+7,49, Private, 9th
+8,52, Programmer, HS-grad
+16,34, Private, 7th-8th
+17,25, Self-emp-not-inc, HS-grad
+18,32, Teacheer, HS-grad
+19,38, Private, 11th
+23,35, Student, 9th
+26,56, Local-gov, Bachelors
+27,19, Private, HS-grad
+31,23, Local-gov, Assoc-acdm
+34,30, Federal-gov, Some-college
+35,22, State-gov, Some-college
